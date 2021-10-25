@@ -1,0 +1,14 @@
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetoContaBancaria.exe
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetoContaBancaria.deps.json
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetoContaBancaria.runtimeconfig.json
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetoContaBancaria.runtimeconfig.dev.json
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetoContaBancaria.dll
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetoContaBancaria.pdb
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetoContaBancaria.csproj.AssemblyReference.cache
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetoContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetoContaBancaria.AssemblyInfoInputs.cache
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetoContaBancaria.AssemblyInfo.cs
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetoContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetoContaBancaria.dll
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetoContaBancaria.pdb
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetoContaBancaria.genruntimeconfig.cache

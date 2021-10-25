@@ -1,0 +1,14 @@
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetobancoCorrecao.exe
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetobancoCorrecao.deps.json
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetobancoCorrecao.runtimeconfig.json
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetobancoCorrecao.runtimeconfig.dev.json
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetobancoCorrecao.dll
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\bin\Debug\netcoreapp3.1\ProjetobancoCorrecao.pdb
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetobancoCorrecao.csproj.AssemblyReference.cache
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetobancoCorrecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetobancoCorrecao.AssemblyInfoInputs.cache
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetobancoCorrecao.AssemblyInfo.cs
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetobancoCorrecao.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetobancoCorrecao.dll
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetobancoCorrecao.pdb
+C:\Users\Gustavo Marques\source\repos\ProjetobancoCorrecao\ProjetobancoCorrecao\obj\Debug\netcoreapp3.1\ProjetobancoCorrecao.genruntimeconfig.cache
